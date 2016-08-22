@@ -1,0 +1,26 @@
+From 5601a73d7ebd032a24ed47abd00fb2197b1bd533 Mon Sep 17 00:00:00 2001
+From: "kelder@dartz.com" <kelder@dartz.com>
+Date: Thu, 18 Aug 2016 10:54:33 +0900
+Subject: [PATCH] =?UTF-8?q?=ED=95=98=ED=95=98=ED=95=982?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index c0b8095..b0c5ed9 100644
+--- a/index.html
++++ b/index.html
+@@ -1,5 +1,5 @@
+ <html>
+-<head>하하하</head>
++<head>하하하2</head>
+ <body>
+ <header>
+ <h1>Git</h1>
+-- 
+2.9.0.windows.1
+
